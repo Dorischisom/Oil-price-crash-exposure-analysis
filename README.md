@@ -100,31 +100,31 @@ This visualization ranks countries by average exposure score.
 
 **Key insights:**
 
-1. Countries in the top-right corner are the most vulnerable.
+**1. Countries in the top-right corner are the most vulnerable.**
 
 These countries have both:
 - High oil rents as a share of GDP (their economies depend on oil), and
 - High fuel exports as a share of total exports (their foreign currency depends on oil).
 This combination makes them highly exposed to oil price crashes because both government revenue and export earnings fall when oil prices decline.
 
-2. Some countries show high export dependence but lower GDP dependence.
+**2. Some countries show high export dependence but lower GDP dependence.**
    
 These appear high on the vertical axis but more to the left horizontally.
 This suggests that while oil dominates their exports, it is not the main driver of their entire economy. These countries face strong foreign exchange risk during oil price crashes even if GDP impact is smaller.
 
-3. Some countries have high GDP dependence but more diversified exports.
+**3. Some countries have high GDP dependence but more diversified exports.**
    
 These appear far to the right but lower vertically.
 This indicates that oil contributes heavily to domestic income, but exports are more diversified. These countries are vulnerable through fiscal and budget channels rather than trade channels.
 
-4. Most countries cluster in the lower-left region.
+**4. Most countries cluster in the lower-left region.**
    
 This cluster represents countries with:
 - Low oil rents in GDP, and
 - Low fuel export shares.
 These economies are relatively insulated from oil price crashes and are more resilient to oil market volatility.
 
-5. The scatter shows that exposure is driven by two different mechanisms.
+**5. The scatter shows that exposure is driven by two different mechanisms.**
    
 The chart demonstrates that vulnerability to oil price crashes is not caused by one factor alone. Instead, risk arises from:
 - Dependence on oil for national income (GDP channel), and
@@ -176,21 +176,21 @@ Oil price crashes disproportionately impact fiscally dependent economies.
 
 
 ## Limitations
-1. Exposure score is based on two indicators and does not capture:
+**1. Exposure score is based on two indicators and does not capture:**
 - Sovereign wealth fund buffers
 - Debt levels
 - Exchange rate regimes
 - Fiscal policy responses
 
-2. Oil rents as % of GDP may fluctuate due to:
+**2. Oil rents as % of GDP may fluctuate due to:**
 - Price effects
 - Production changes
 
-3. Data availability varies across countries and years.
+**3. Data availability varies across countries and years.**
    
-4. 2023 data may be provisional.
+**4. 2023 data may be provisional.**
    
-5. The analysis does not model macroeconomic outcomes (e.g., GDP contraction), only structural exposure.
+**5. The analysis does not model macroeconomic outcomes (e.g., GDP contraction), only structural exposure.**
 
 
 ## Conclusion
@@ -198,7 +198,7 @@ Between 2010 and 2023, oil price crash exposure remains highly concentrated in a
 Countries such as Angola, Congo (Rep.), Saudi Arabia, and Oman display sustained vulnerability due to high fiscal and export reliance on oil.
 While some economies show modest diversification trends, structural dependence remains a defining characteristic of several exporters.
 
-Understanding exposure levels is critical for:
+**Understanding exposure levels is critical for:**
 - Risk assessment
 - Fiscal planning
 - Sovereign credit analysis
