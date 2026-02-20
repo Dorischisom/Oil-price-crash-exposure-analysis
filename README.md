@@ -64,6 +64,9 @@ Data was obtained via the World Bank API, including:
 - Removed missing values
 - Merged oil rent and fuel export datasets (inner join)
 
+ [View Full Analysis Here](Full_Analysis4/Full_Analysis4.ipynb)
+
+
 
 ## 📊 Exposure Score Construction
 To measure vulnerability, an Exposure Score was constructed by combining:
