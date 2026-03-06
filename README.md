@@ -1,6 +1,6 @@
 # Oil Price Crash Exposure by Country (2010–2023)
 
-## 📌 Business Problem
+## Business Problem
 Oil price crashes can severely impact countries that depend heavily on oil exports and petroleum revenues. 
 
 When global oil prices decline sharply (e.g., 2014–2016 crash, 2020 COVID shock), 
@@ -17,7 +17,7 @@ This project answers the key question:
 **Which countries are most exposed to oil price crashes between 2010 and 2023?**
 
 
-## 🎯 Objective
+## Objective
 
 To identify and rank countries based on structural exposure to oil price volatility using economic dependence indicators.
 
@@ -28,7 +28,7 @@ The analysis focuses on:
 - Sensitivity during major oil price crash periods
 
 
-# 📂 Data Sources
+# Data Sources
 
 Data was obtained via the World Bank API, including:
 
@@ -50,7 +50,7 @@ Data was obtained via the World Bank API, including:
 - Matplotlib / Seaborn
 - World Bank API
 
-## 🧹 Data Cleaning & Preparation (Python)
+## Data Cleaning & Preparation (Python)
 
 ##### Steps performed:
 
@@ -68,7 +68,7 @@ Data was obtained via the World Bank API, including:
 
 
 
-## 📊 Exposure Score Construction
+## Exposure Score Construction
 To measure vulnerability, an Exposure Score was constructed by combining:
 - Oil rents (% of GDP)
 - Fuel exports (% of merchandise exports)
